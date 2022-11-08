@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "pipe-sandbox",
+  "scripts": {
+    "start": "http-server"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
